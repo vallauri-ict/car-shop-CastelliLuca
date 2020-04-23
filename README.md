@@ -1,5 +1,5 @@
 # Car Shop Solution
-## Autore: Castelli Luca
+## Created by Castelli Luca
 
 ## Descrizione
 >Qui possiamo trovare un listino di un negozio di macchine
