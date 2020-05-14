@@ -1,0 +1,7 @@
+Salone		Vendita		Auto-Moto-Camion
+	Veicoli	           Nuovi e usati
+
+SOLUZIONE MULTIPROGETTO--> è buona norma tenere la logica di prog in una libreria e invece la rappre visiva in modo separato. 
+  In questo modo potremo avere delle interfacce più semplici.
+  Conterrà un prog di tipo DLL (dynamic link library), di tipo console (attività batch e permette di testare le cose),
+un prog winform (gestionale e office automation) e web (presentation)
